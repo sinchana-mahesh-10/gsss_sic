@@ -1,0 +1,12 @@
+Syntax Error :Occurs when the Python code is written incorrectly
+SyntaxError: expected ':'
+
+Name Error :Occurs when a variable or function name is used before it is defined or doesn't exist.
+NameError: name 'score' is not defined
+
+Index Error :Occurs when trying to access an index that doesn’t exist in a list
+IndexError: list index out of range
+
+Value Error  :Occurs when a function receives a value of the correct type but inappropriate or unexpected.
+age = int("twenty")  # Can't convert string "twenty" to int
+ValueError: invalid literal for int() with base 10: 'twenty'

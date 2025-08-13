@@ -1,0 +1,10 @@
+conditional programming
+tax calculation problem
+farmer problem
+
+*student result problem
+*check if a number is perfect square
+check if a year is leap year
+os
+sys
+math

@@ -1,0 +1,6 @@
+learn output formatting
+why in python do not have increment and decrement operator
+learn  about __main__
+pep3
+iconic
+docs.python.org
