@@ -4,3 +4,13 @@ learn  about __main__
 pep3
 iconic
 docs.python.org
+
+command line argument into myrange function
+
+argv is present in sys module
+argv = commandline argument
+
+what purpose of argv
+why argv[0] store the filename
+
+why in python there is no implicit typecasting ?

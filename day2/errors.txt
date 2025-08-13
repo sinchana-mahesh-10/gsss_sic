@@ -10,3 +10,5 @@ IndexError: list index out of range
 Value Error  :Occurs when a function receives a value of the correct type but inappropriate or unexpected.
 age = int("twenty")  # Can't convert string "twenty" to int
 ValueError: invalid literal for int() with base 10: 'twenty'
+
+type error
