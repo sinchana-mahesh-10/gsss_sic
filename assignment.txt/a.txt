@@ -13,4 +13,6 @@ argv = commandline argument
 what purpose of argv
 why argv[0] store the filename
 
-why in python there is no implicit typecasting ?
+why in python there is no implicit typecasting?
+
+import pymysql

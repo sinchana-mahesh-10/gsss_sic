@@ -12,3 +12,8 @@ age = int("twenty")  # Can't convert string "twenty" to int
 ValueError: invalid literal for int() with base 10: 'twenty'
 
 type error
+
+zerodivision error
+
+all types of errors are child of except(error)
+
