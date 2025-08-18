@@ -16,3 +16,31 @@ why argv[0] store the filename
 why in python there is no implicit typecasting?
 
 import pymysql
+
+n[1]
+*(n + 1 ) => * -> deferencing operator in this
+ multiplication operator for binary
+1202 = address of next bite
+1205 = address of next element
+1241 = address of next array
+
+address arithmatic
+
+address + number = address
+address - number = address
+address - address = number of bites between them
+
+
+for both dynamic and static array
+
+memory allocated at run time for both , compile time it knows memory space for  static not for dynamic  
+
+list1.py =>both names3 and names4 referred to same list ==> shallow copy => only one copy present
+
+list2.py =>both names3 and names4 referred to their own list ==> deep copy => two copy present
+
+append() ==> add element or list to rear and return none
+pop() ==> remove element to rear and return element
+extend() ==> add element of list to rear and return none
+
+sort is a mutator not accessor
