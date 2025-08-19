@@ -11,6 +11,9 @@ Value Error  :Occurs when a function receives a value of the correct type but in
 age = int("twenty")  # Can't convert string "twenty" to int
 ValueError: invalid literal for int() with base 10: 'twenty'
 
+index error :list out of range
+no index error in slicing
+
 type error
 
 zerodivision error

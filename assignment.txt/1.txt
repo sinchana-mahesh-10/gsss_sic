@@ -8,3 +8,12 @@ check if a year is leap year
 os
 sys
 math
+
+implement a function find which mimics find method of string class
+
+why str.find(' ')  gives 0
+my_str = 'mysuru'
+my_str.find(' ')  ==> 0
+
+str = ' '
+str.find(' ')  ==> 0
