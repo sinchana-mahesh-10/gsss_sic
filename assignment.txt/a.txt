@@ -45,3 +45,25 @@ pop() ==> remove element to rear and return element
 extend() ==> add element of list to rear and return none
 
 sort is a mutator not accessor
+
+calling function ==> caller ==> main
+called function ==> cally ==> print
+
+python debugger
+python -m pdb filename.py
+pdb
+help
+
+sys.argv[1] ==> python filename.py ______
+_____ => user input
+
+take 4 digit number a digit cant be repeated thrice
+put the digit you hve taken in decreasing order
+
+take the diff
+
+
+input from 
+user
+commandline
+from file

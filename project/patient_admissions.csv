@@ -1,0 +1,11 @@
+PatientID,Name,Age,Gender,Department,Diagnosis,AdmissionDate,DischargeDate
+P001,John Doe,45,M,Cardiology,Heart Attack,2023-03-01,2023-03-10
+P002,Jane Smith,34,F,Neurology,Stroke,2023-03-05,2023-03-18
+P003,Michael Lee,29,M,Orthopedics,Fractures,2023-03-03,2023-03-09
+P004,Sarah Khan,51,F,Cardiology,,2023-03-01,2023-03-15
+P005,David Chen,61,M,Oncology,Cancer,2023-03-11,2023-03-25
+P006,Linda Brown,47,F,Neurology,Epilepsy,2023-03-08,
+P007,Robert Wilson,59,M,Cardiology,Arrhythmia,2023-03-14,2023-03-19
+P008,Emily Waters,25,F,Orthopedics,Dislocation,2023-03-05,2023-03-14
+P009,Daniel White,58,M,Oncology,,2023-03-16,2023-03-21
+P010,Anna Scott,46,F,Cardiology,Hypertension,2023-03-18,2023-03-28
