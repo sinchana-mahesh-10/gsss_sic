@@ -67,3 +67,7 @@ input from
 user
 commandline
 from file
+
+
+10 8 5 
+40  

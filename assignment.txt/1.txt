@@ -17,3 +17,4 @@ my_str.find(' ')  ==> 0
 
 str = ' '
 str.find(' ')  ==> 0
+ shallow and deep copy
